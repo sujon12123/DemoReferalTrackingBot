@@ -1,5 +1,5 @@
 /*CMD
-  command: /mylink
+  command: /babu
   help: get my affiliate link
   need_reply: 
   auto_retry_time: 
