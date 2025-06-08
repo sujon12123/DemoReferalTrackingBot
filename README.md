@@ -51,7 +51,7 @@ It is command code in JavaScript.
 Use Bot Java Script for logic in command.
 
 For example:
-> Bot.sendMessage(2+2);
+> Bot.sendMessage(2+3);
 
 See [more](https://help.bots.business/scenarios-and-bjs)
 
